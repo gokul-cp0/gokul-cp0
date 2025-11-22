@@ -56,9 +56,24 @@
 
 </p>
 
+### Reach me:
+<p align="left">
+  <a href="mailto:gokulakannan.sj7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gokula-kannan-s-merndev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/ore_wa_kaizoku" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+
 ---
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
 
 🌱I'm currently **learning and improving** in:
 - **Python for AI**  
