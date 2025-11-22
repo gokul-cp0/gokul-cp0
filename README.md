@@ -1,15 +1,8 @@
 <!-- Banner -->
 <img width="1184" height="439" alt="Firefly_Gemini Flash_its look good but_Create a stylish, professional, high-resolution cover banner for a  95394" src="https://github.com/user-attachments/assets/b8f4cb68-f3b0-472e-9e15-2b1d7f76e977" />
-<p align="right">
-  <table align="right" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img alt="coding" width="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdtb2ZicjA1dWM1M2VzODZ1Y3d3b2Z3YzdrY3owbGg2NDkyOGNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" /><br/>
-        <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=gokul-cp0.profile&left_text=Profile%20views&left_color=%233e1ac7&right_color=%23B57BFF" />
-      </td>
-    </tr>
-  </table>
-</p>
+
+  <img align="right" alt="coding" width="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdtb2ZicjA1dWM1M2VzODZ1Y3d3b2Z3YzdrY3cwbGg2NDkyOGNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" />
+  <img align="right" alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=gokul-cp0.profile&left_text=Profile%20views&left_color=%233e1ac7&right_color=%23B57BFF" />
 
 **🔥Currently Working On:** **Full-stack development at a startup**, building production applications using: **React, TypeScript, SCSS, Webpack, MUI, Redux, RHF, Zod, NestJS, TypeORM, PostgreSQL, MQTT**
 
@@ -59,7 +52,7 @@
 
 ---
 
-<img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 🌱I'm currently **learning and improving** in:
 - **Python for AI**  
@@ -85,11 +78,13 @@ Full-stack development, Web applications, Backend services & APIs, Developer too
 
 **⚡ Fun Fact:** I write cleaner code at 2 AM than 2 PM
 
+<br clear="right"/>
+
 ---
 
 ### Status:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-cp0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-<img align ="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/59384fa3-58b8-4299-8708-60abbc88d798">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/59384fa3-58b8-4299-8708-60abbc88d798">
 ![](https://github-readme-stats.vercel.app/api?username=gokul-cp0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=gokul-cp0&theme=dark&hide_border=true)
